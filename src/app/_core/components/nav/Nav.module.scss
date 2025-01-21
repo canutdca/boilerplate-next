@@ -1,0 +1,12 @@
+.list {
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: var(--spacing-md);
+}
+
+.link {
+	color: var(--color-text);
+	text-decoration: none;
+}

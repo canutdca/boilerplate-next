@@ -1,0 +1,9 @@
+.list {
+	list-style-type: none;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	gap: var(--spacing-md);
+	flex-wrap: wrap;
+}

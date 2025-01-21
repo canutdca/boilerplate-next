@@ -1,0 +1,5 @@
+@use '@/app/list/styles/item.scss' as item;
+
+.item {
+	@include item.item;
+}
